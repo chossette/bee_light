@@ -3,7 +3,7 @@
 This is a desk lamp using a honeycomb design.
 Light is controled by an ESP32 wifi controler and WS2812B led strip.
 
-![Lamp picture](docs/lamp_1.jpg) ![Lamp picture](docs/lamp_2.jpg)
+![Lamp picture](docs/lamp_button.jpg) ![Lamp picture](docs/lamp_top.jpg)
 
 Control is done using WIFI Network API or using physical single rotary button:
 - single click turn on/off
@@ -13,7 +13,9 @@ Control is done using WIFI Network API or using physical single rotary button:
 
 ## 3D model
 Honeycomb model comes from: [thingiverse](https://www.thingiverse.com/thing:4807723/files)
-Base model is done by myself, and contains in this repository
+
+Base model is done by myself, and available in this repository
+
 Software is done by myself, and available in this [github repository](https://github.com/chossette/desk_light)
 
 ## 3D Print
