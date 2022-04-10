@@ -18,3 +18,10 @@ Software is done by myself, and available in this [github repository](https://gi
 
 ## 3D Print
 Print is done using wood PLA for base, and white PLA for honeycomb using a Creality CR-6 SE with [commumnity firwmare](https://github.com/CR6Community)
+
+## Components
+- [ESP32-WROOM-32D](https://fr.aliexpress.com/item/32959541446.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bJ1RPx7)
+- [10 WS2812B leds](https://www.aliexpress.com/item/4000744445376.html?spm=a2g0o.order_list.0.0.21ef5e5bJ1RPx7)
+- [rotary encoder](https://fr.aliexpress.com/item/32816016154.html?gatewayAdapt=glo2fra&spm=a2g0o.order_list.0.0.21ef5e5bJ1RPx7)
+- [3.3<->5V level switcher](https://www.aliexpress.com/item/32883006513.html?spm=a2g0o.order_list.0.0.21ef5e5bJ1RPx7)
+- [micro usb connector](https://fr.aliexpress.com/item/4000785370254.htmldt)
